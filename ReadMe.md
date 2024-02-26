@@ -7,7 +7,7 @@ This repository contains a micro-service designed to provide simplified summary 
 ### Clone the Repository
 To clone this repository, use the following command:
 ```bash
-git clone <https://github.com/coding-destini/Craftindika.git>
+git clone https://github.com/coding-destini/Craftindika.git
 ```
 
 ### Setup Frontend and Backend
@@ -51,6 +51,9 @@ The backend routes for the micro-service are as follows:
 - **GET `/record/department-summary`**: Get summary statistics for salaries within each department.
 - **GET `/record/detailed-department-summary`**: Get detailed summary statistics for salaries within each department and sub-department combination.
 
+## Test with Postman
+Download postman collection from here : https://drive.google.com/drive/folders/18OIWgVoyaTZ4Jw9VUPZAHKE7jTY4Y1O0?usp=sharing
+Import this downloaded json file into postman collections and test it.
 
 ## Thank you
 Feel free to contribute
